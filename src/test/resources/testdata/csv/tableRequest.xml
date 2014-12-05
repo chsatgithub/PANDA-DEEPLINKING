@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+  #%L
+  PANDA-DEEPLINKING
+  %%
+  Copyright (C) 2014 Freie Universität Berlin
+  %%
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as
+  published by the Free Software Foundation, either version 3 of the
+  License, or (at your option) any later version.
+  
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+  
+  You should have received a copy of the GNU General Public
+  License along with this program.  If not, see
+  <http://www.gnu.org/licenses/gpl-3.0.html>.
+  #L%
+  -->
+<PANDA baseURI="/CsvTest/"><value type="xs:string" subURI="B2">M AND T TRANSMISSIONS LIMITED</value><value type="xs:string" subURI="C2">120 BRADWAY ROAD</value><value type="xs:string" subURI="B3">M &amp; D SERVICES (BRISTOL) LTD</value><value type="xs:string" subURI="C3">UNIT 1 BALACLAVA ROAD IND EST</value><value type="xs:string" subURI="D3">RIDGWAY ROAD</value><value type="xs:string" subURI="E3">FISHPONDS</value><value type="xs:string" subURI="B4">PANTEG SERVICE STATION</value><value type="xs:string" subURI="C4">STATION RD</value><value type="xs:string" subURI="D4">GRIFFITHSTOWN</value><value type="xs:string" subURI="B5">HAVELOCK ROAD GARAGE</value><value type="xs:string" subURI="C5">HAVELOCK ROAD</value><value type="xs:string" subURI="D5">BALBY</value></PANDA>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+  #%L
+  PANDA-DEEPLINKING
+  %%
+  Copyright (C) 2014 Freie Universität Berlin
+  %%
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as
+  published by the Free Software Foundation, either version 3 of the
+  License, or (at your option) any later version.
+  
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+  
+  You should have received a copy of the GNU General Public
+  License along with this program.  If not, see
+  <http://www.gnu.org/licenses/gpl-3.0.html>.
+  #L%
+  -->
+
+<PANDA xmlns="http://www.w3.org/1999/xhtml">
+	<value type="xs:string">
+		<!-- $Id: URIdecoratorPage.tmpl,v1.0 2011-10-13 pglover, rcozens Exp $ -->
+		<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+		<head>
+		<meta name="generator" content="HTML Tidy for Java (vers. 2009-12-01), see jtidy.sourceforge.net" />
+		<title>URI</title>
+		<link rel="alternate" href="http://data.companieshouse.gov.uk/doc/company/02050399.rdf" type="application/rdf+xml" />
+		<link rel="alternate" href="http://data.companieshouse.gov.ui/doc/company/02050399.json" type="application/json" />
+		<link rel="alternate" href="http://data.companieshouse.gov.uk/doc/company/02050399.xml" type="application/xml" />
+		<link rel="alternate" href="http://data.companieshouse.gov.uk/doc/company/02050399.html" type="text/html" />
+		<link rel="alternate" href="http://data.companieshouse.gov.uk/doc/company/02050399.csv" type="text/csv" />
+		<link rel="alternate" href="http://data.companieshouse.gov.uk/doc/company/02050399.yaml" type="application/yaml" />
+		<link rel="stylesheet" type="text/css" href="/style/html5reset-1.6.1.css" />
+		<link rel="stylesheet" type="text/css" href="/style/result.css" /><!--[if lte IE 8]>
+		<link rel="stylesheet" type="text/css" href="/style/ieFix.css" />
+		<![endif]-->
+		</head>
+		<body>
+		<div id="page">
+		<div class="site"><a href="http://www.companieshouse.gov.uk/"><img src="http://www.companieshouse.gov.uk/images/CompaniesHouseNewLogo.png" class="logo" /></a> 
+		<h1>ZENITH PRINT (UK) LIMITED<br />
+		02050399<br />
+		</h1>
+		<ul class="formats">
+		<li><a href="/doc/company/02050399.rdf">rdf</a></li>
+		<!--li><a href="/doc/company/02050399.ttl">ttl</a></li-->
+		<li><a href="/doc/company/02050399.json">json</a></li>
+		<li><a href="/doc/company/02050399.xml">xml</a></li>
+		<li><a href="/doc/company/02050399.html">html</a></li>
+		<li><a href="/doc/company/02050399.csv">csv</a></li>
+		<li><a href="/doc/company/02050399.yaml">yaml</a></li>
+		</ul>
+		<div class="panel">
+		<div class="section">
+		<table class="datatable">
+		<tr>
+		<th>CompanyName</th>
+		<td>ZENITH PRINT (UK) LIMITED</td>
+		</tr>
+		<tr>
+		<th>CompanyNumber</th>
+		<td>02050399</td>
+		</tr>
+		<tr>
+		<th>RegAddress</th>
+		<td>
+		<table class="datatable">
+		<tr>
+		<th>AddressLine1</th>
+		<td>ZENITH HOUSE</td>
+		</tr>
+		<tr>
+		<th>AddressLine2</th>
+		<td>MOY ROAD INDUSTRIAL ESTATE</td>
+		</tr>
+		<tr>
+		<th>PostTown</th>
+		<td>TAFFS WELL</td>
+		</tr>
+		<tr>
+		<th>County</th>
+		<td>CARDIFF</td>
+		</tr>
+		<tr>
+		<th>Postcode</th>
+		<td>CF15 7QR</td>
+		</tr>
+		</table>
+		</td>
+		</tr>
+		<tr>
+		<th>CompanyCategory</th>
+		<td>Private Limited Company</td>
+		</tr>
+		<tr>
+		<th>CompanyStatus</th>
+		<td>Active</td>
+		</tr>
+		<tr>
+		<th>CountryOfOrigin</th>
+		<td>United Kingdom</td>
+		</tr>
+		<tr>
+		<th>IncorporationDate</th>
+		<td>28/08/1986</td>
+		</tr>
+		<tr>
+		<th>PreviousNames</th>
+		<td>
+		<table class="datatable">
+		<tr>
+		<th>CONDate</th>
+		<td>22/03/1996</td>
+		</tr>
+		<tr>
+		<th>CompanyName</th>
+		<td>ZENITH TREFOREST PRESS LIMITED</td>
+		</tr>
+		</table>
+		</td>
+		</tr>
+		<tr>
+		<th>Accounts</th>
+		<td>
+		<table class="datatable">
+		<tr>
+		<th>AccountRefDay</th>
+		<td>31</td>
+		</tr>
+		<tr>
+		<th>AccountRefMonth</th>
+		<td>03</td>
+		</tr>
+		<tr>
+		<th>NextDueDate</th>
+		<td>31/12/2014</td>
+		</tr>
+		<tr>
+		<th>LastMadeUpDate</th>
+		<td>31/03/2013</td>
+		</tr>
+		<tr>
+		<th>AccountCategory</th>
+		<td>TOTAL EXEMPTION SMALL</td>
+		</tr>
+		</table>
+		</td>
+		</tr>
+		<tr>
+		<th>Returns</th>
+		<td>
+		<table class="datatable">
+		<tr>
+		<th>NextDueDate</th>
+		<td>28/01/2015</td>
+		</tr>
+		<tr>
+		<th>LastMadeUpDate</th>
+		<td>31/12/2013</td>
+		</tr>
+		</table>
+		</td>
+		</tr>
+		<tr>
+		<th>Mortgages</th>
+		<td>
+		<table class="datatable">
+		<tr>
+		<th>NumMortCharges</th>
+		<td>6</td>
+		</tr>
+		<tr>
+		<th>NumMortOutstanding</th>
+		<td>2</td>
+		</tr>
+		<tr>
+		<th>NumMortPartSatisfied</th>
+		<td>0</td>
+		</tr>
+		<tr>
+		<th>NumMortSatisfied</th>
+		<td>4</td>
+		</tr>
+		</table>
+		</td>
+		</tr>
+		<tr>
+		<th>SICCodes</th>
+		<td>
+		<table class="datatable">
+		<tr>
+		<th>SicText</th>
+		<td>70100 - Activities of head offices</td>
+		</tr>
+		</table>
+		</td>
+		</tr>
+		</table>
+		<a href="http://www.bis.gov.uk/" class="BIS"><span class="hide">Department for Business, Innovation and Skills</span></a></div>
+		<!--End of class:section-->
+		</div>
+		<!--End of class:panel-->
+		</div>
+		<!--End of class:site-->
+		</div>
+		<!--End of id:page-->
+		</body>
+		</html>
+	</value>
+</PANDA>

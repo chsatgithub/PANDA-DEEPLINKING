@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+  #%L
+  PANDA-DEEPLINKING
+  %%
+  Copyright (C) 2014 Freie Universit�t Berlin
+  %%
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as
+  published by the Free Software Foundation, either version 3 of the
+  License, or (at your option) any later version.
+  
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+  
+  You should have received a copy of the GNU General Public
+  License along with this program.  If not, see
+  <http://www.gnu.org/licenses/gpl-3.0.html>.
+  #L%
+  -->
+<PANDA baseURI="/WordTest/text/"><value type="xs:string" subURI="48">On the categorisation:</value><value type="xs:string" subURI="50">The categorisation structure used has been developed in consultation with government commercial departments. It reflects the market category from which a good or service was procured. This is not the same as the reason for its procurement. So, for example, some procurement of goods and services for Social Care – such as care home provision – is from the Social Care supply market; but insofar as social workers use computers, pens and paper, some of the Social Care budget will in fact be expended on the ICT or Office Solutions supply markets.</value><value type="xs:string" subURI="51">This effect is particularly apparent in the Defence category where £7.5bn is categorised to the supply market. This is significantly less than the total procurement budgets for the Ministry of Defence. The difference is goods and services procured by the MoD from supply markets other than Defence, such as fuel.</value><value type="xs:string" subURI="52">The reverse side of this effect explains why in some cases category totals are higher than might be expected. For example, Professional Services master category grouping includes many of the managed service procurements that contribute to front line delivery across the board.</value><value type="xs:string" subURI="53">In some cases departments are procuring in categories that may on first sight seem unexpected; for example, the Foreign and Commonwealth Office has expenditure in the Social Care master category – in fact this is their World Programmes expenditure.</value><value type="xs:string" subURI="54">In the case of managed service arrangements where there is no second tier supply chain category breakdown this can distort the total supply chain market value at a lower tier level. For example, where catering is procured as part of a broader facilities management contract, it is not always possible to break this spend out into the catering category.</value><value type="xs:string" subURI="55">Although detailed guidance is available in support of the categorisation process, it is inevitable that a degree of subjectivity persists in departmental analysis of their data.  What one department considers to be an office machine within the office solution master category, another may manage as part of a managed service in the ICT category.</value><value type="xs:string" subURI="56">BIS was formed in a Machinery of Government change that took place in the middle of the period under consideration. Included here within the BIS family are all Arms Length Bodies that currently form part of the BIS delivery chain, albeit they may not have done at the start of 2008. DIUS core spend is considered separately here but this will be amalgamated in future versions.</value></PANDA>

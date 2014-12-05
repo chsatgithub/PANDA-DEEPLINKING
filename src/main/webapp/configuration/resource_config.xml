@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+  #%L
+  PANDA-DEEPLINKING
+  %%
+  Copyright (C) 2014 Freie Universität Berlin
+  %%
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as
+  published by the Free Software Foundation, either version 3 of the
+  License, or (at your option) any later version.
+  
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+  
+  You should have received a copy of the GNU General Public
+  License along with this program.  If not, see
+  <http://www.gnu.org/licenses/gpl-3.0.html>.
+  #L%
+  -->
+<PANDA><ResourceList><Resource resourceID="08cdd533-62e4-44b2-b918-04d892230392"><ResourceInfo><filePath>C:\TestResources\July_Spend_Publication_v1.0.doc</filePath><type>DOC</type></ResourceInfo></Resource><Resource resourceID="ef20a479-4cb4-444d-aa7f-90e378e2c058"><ResourceInfo><filePath>C:\TestResources\Driving-Licence-Tables-Nov2012.xlsx</filePath><type>XLSX</type></ResourceInfo></Resource><Resource resourceID="50a5be14-0cc0-4e3c-b989-f4be250babb2"><ResourceInfo><filePath>C:\TestResources\MOTsitelist.csv</filePath><separator>,</separator><type>CSV</type></ResourceInfo></Resource><Resource resourceID="9a61b4f7-fb25-4e10-bfc9-bf24b7842fa4"><ResourceInfo><filePath>C:\TestResources\clin-audi-supp-prog-oeso-gast-2009-rep1.pdf</filePath><type>PDF</type></ResourceInfo></Resource><Resource resourceID="bfc9735b-c9ae-4bed-8e9e-15f33dc581d4"><ResourceInfo><filePath>C:\TestResources\July_Spend_Publication_v1.0.docx</filePath><type>DOCX</type></ResourceInfo></Resource><Resource resourceID="badea5aa-c33e-4f7a-b2f1-8032c6e2b419"><ResourceInfo><filePath>C:\TestResources\Driving-Licence-Tables-Nov2012.xls</filePath><type>XLS</type></ResourceInfo></Resource><Resource resourceID="6eeaf787-f3f6-474f-99a1-f23f962f38ab"><ResourceInfo><filePath>C:\TestResources\Digital Elevation Models (DEM) - New York State.htm</filePath><type>HTML</type></ResourceInfo></Resource><Resource resourceID="ccbe5380-e2b0-4f98-9022-92c256ba12e4"><ResourceInfo><filePath>C:\TestResources\Traffic_Flow_Counts.xml</filePath><type>XML</type></ResourceInfo></Resource></ResourceList></PANDA>

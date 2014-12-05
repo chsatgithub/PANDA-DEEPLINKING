@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+  #%L
+  PANDA-DEEPLINKING
+  %%
+  Copyright (C) 2014 Freie Universität Berlin
+  %%
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as
+  published by the Free Software Foundation, either version 3 of the
+  License, or (at your option) any later version.
+  
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+  
+  You should have received a copy of the GNU General Public
+  License along with this program.  If not, see
+  <http://www.gnu.org/licenses/gpl-3.0.html>.
+  #L%
+  -->
+<PANDA baseURI="/CsvTest/"><value type="xs:string" subURI="A25">0039BQ</value><value type="xs:string" subURI="B25">P &amp; A ANDERTON</value><value type="xs:string" subURI="C25">GORTON FOLD TESTING STATION</value><value type="xs:string" subURI="D25">GORTON FOLD</value><value type="xs:string" subURI="E25">CHURCH STREET, HORWICH</value><value type="xs:string" subURI="F25">BOLTON</value><value type="xs:string" subURI="G25">BL6 7BX</value><value type="xs:string" subURI="H25">'01204695948</value><value type="xs:string" subURI="I25">'</value><value type="xs:string" subURI="M25">Y</value></PANDA>

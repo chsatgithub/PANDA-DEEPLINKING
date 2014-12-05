@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+  #%L
+  PANDA-DEEPLINKING
+  %%
+  Copyright (C) 2014 Freie Universität Berlin
+  %%
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as
+  published by the Free Software Foundation, either version 3 of the
+  License, or (at your option) any later version.
+  
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+  
+  You should have received a copy of the GNU General Public
+  License along with this program.  If not, see
+  <http://www.gnu.org/licenses/gpl-3.0.html>.
+  #L%
+  -->
+<PANDA baseURI="/WordTest/tables/26/"><value type="xs:string" subURI="C1/2">The Service Desk will also 
+channel queries to the 
+appropriate second-line 
+support. We look forward 
+to hearing from you.</value><value type="xs:string" subURI="C1/3">You can contact the Service 
+Desk 8am â€“ 6pm Monday 
+to Friday:</value><value type="xs:string" subURI="C1/4">T: 0845 000 4999
+E: ServiceDesk@ogc.gsi.gov.uk
+www.ogc.gov.uk</value></PANDA>

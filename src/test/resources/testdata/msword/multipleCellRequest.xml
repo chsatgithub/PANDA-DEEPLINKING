@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+  #%L
+  PANDA-DEEPLINKING
+  %%
+  Copyright (C) 2014 Freie Universit�t Berlin
+  %%
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as
+  published by the Free Software Foundation, either version 3 of the
+  License, or (at your option) any later version.
+  
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+  
+  You should have received a copy of the GNU General Public
+  License along with this program.  If not, see
+  <http://www.gnu.org/licenses/gpl-3.0.html>.
+  #L%
+  -->
+<PANDA baseURI="/WordTest/tables/"><value type="xs:string" subURI="6/C1/1"> </value><value type="xs:string" subURI="7/C1/1"> </value><value type="xs:string" subURI="8/C1/1"> </value><value type="xs:string" subURI="9/C1/1"> </value><value type="xs:string" subURI="10/C1/1"> </value><value type="xs:string" subURI="11/C1/1"> </value><value type="xs:string" subURI="12/C1/1"> </value><value type="xs:string" subURI="13/C1/1"> </value><value type="xs:string" subURI="14/C1/1"> </value><value type="xs:string" subURI="15/C1/1"> </value><value type="xs:string" subURI="16/C1/1"> </value><value type="xs:string" subURI="17/C1/1"> </value><value type="xs:string" subURI="18/C1/1"> </value><value type="xs:string" subURI="19/C1/1"> </value><value type="xs:string" subURI="20/C1/1"> </value><value type="xs:string" subURI="21/C1/1"> </value><value type="xs:string" subURI="22/C1/1"> </value><value type="xs:string" subURI="23/C1/1"> </value><value type="xs:string" subURI="24/C1/1"> </value><value type="xs:string" subURI="25/C1/1"> </value><value type="xs:string" subURI="26/C1/2">The Service Desk will also 
+channel queries to the 
+appropriate second-line 
+support. We look forward 
+to hearing from you.</value><value type="xs:string" subURI="26/C1/3">You can contact the Service 
+Desk 8am – 6pm Monday 
+to Friday:</value><value type="xs:string" subURI="26/C1/4">T: 0845 000 4999
+E: ServiceDesk@ogc.gsi.gov.uk
+www.ogc.gov.uk</value><value type="xs:string" subURI="26/C1/5">Press enquiries
+T: 020 7271 1318
+F: 020 7271 1345</value><value type="xs:string" subURI="26/C1/6">This document is printed on 
+material comprising 75 per 
+cent recycled fibre.</value><value type="xs:string" subURI="26/C1/7">© Crown copyright 2010</value></PANDA>

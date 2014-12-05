@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+  #%L
+  PANDA-DEEPLINKING
+  %%
+  Copyright (C) 2014 Freie Universität Berlin
+  %%
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as
+  published by the Free Software Foundation, either version 3 of the
+  License, or (at your option) any later version.
+  
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+  
+  You should have received a copy of the GNU General Public
+  License along with this program.  If not, see
+  <http://www.gnu.org/licenses/gpl-3.0.html>.
+  #L%
+  -->
+
+<PANDA xmlns="http://www.companieshouse.gov.uk/terms/xxx">
+	<value type="xs:string">
+		<Result xmlns="http://www.companieshouse.gov.uk/terms/xxx">
+		  <primaryTopic href="http://business.data.gov.uk/id/company/02050399">
+		    <CompanyName>ZENITH PRINT (UK) LIMITED</CompanyName>
+		    <CompanyNumber>02050399</CompanyNumber>
+		    <RegAddress href="http://data.companieshouse.gov.uk/doc/company/02050399#RegAddress">
+		      <AddressLine1>ZENITH HOUSE</AddressLine1>
+		      <AddressLine2>MOY ROAD INDUSTRIAL ESTATE</AddressLine2>
+		      <PostTown>TAFFS WELL</PostTown>
+		      <County>CARDIFF</County>
+		      <Postcode>CF15 7QR</Postcode>
+		    </RegAddress>
+		    <CompanyCategory>Private Limited Company</CompanyCategory>
+		    <CompanyStatus>Active</CompanyStatus>
+		    <CountryOfOrigin>United Kingdom</CountryOfOrigin>
+		    <IncorporationDate>1986-08-28</IncorporationDate>
+		    <PreviousNames href="http://data.companieshouse.gov.uk/doc/company/02050399#PreviousNames">
+		      <CONDate>1996-03-22</CONDate>
+		      <CompanyName>ZENITH TREFOREST PRESS LIMITED</CompanyName>
+		    </PreviousNames>
+		    <Accounts href="http://data.companieshouse.gov.uk/doc/company/02050399#Accounts">
+		      <AccountRefDay>31</AccountRefDay>
+		      <AccountRefMonth>03</AccountRefMonth>
+		      <NextDueDate>2014-12-31</NextDueDate>
+		      <LastMadeUpDate>2013-03-31</LastMadeUpDate>
+		      <AccountCategory>TOTAL EXEMPTION SMALL</AccountCategory>
+		    </Accounts>
+		    <Returns href="http://data.companieshouse.gov.uk/doc/company/02050399#Returns">
+		      <NextDueDate>2015-01-28</NextDueDate>
+		      <LastMadeUpDate>2013-12-31</LastMadeUpDate>
+		    </Returns>
+		    <Mortgages href="http://data.companieshouse.gov.uk/doc/company/02050399#Mortgages">
+		      <NumMortCharges>6</NumMortCharges>
+		      <NumMortOutstanding>2</NumMortOutstanding>
+		      <NumMortPartSatisfied>0</NumMortPartSatisfied>
+		      <NumMortSatisfied>4</NumMortSatisfied>
+		    </Mortgages>
+		    <SICCodes href="http://data.companieshouse.gov.uk/doc/company/02050399#SICCodes">
+		      <SicText>70100 - Activities of head offices</SicText>
+		    </SICCodes>
+		  </primaryTopic>
+		  <specialCase><![CDATA[&<>]]></specialCase>
+		</Result>
+	</value>
+</PANDA>

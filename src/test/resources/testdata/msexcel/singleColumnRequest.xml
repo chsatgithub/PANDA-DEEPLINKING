@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+  #%L
+  PANDA-DEEPLINKING
+  %%
+  Copyright (C) 2014 Freie Universität Berlin
+  %%
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as
+  published by the Free Software Foundation, either version 3 of the
+  License, or (at your option) any later version.
+  
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+  
+  You should have received a copy of the GNU General Public
+  License along with this program.  If not, see
+  <http://www.gnu.org/licenses/gpl-3.0.html>.
+  #L%
+  -->
+<PANDA baseURI="/ExcelTest/tables/DRL0110/"><value type="xs:string" subURI="C8">www.data.gov.uk/dataset/driving-licence-data</value><value type="xs:string" subURI="C26">Female</value><value type="xs:double" subURI="C27">324242</value><value type="xs:double" subURI="C28">2017</value><value type="xs:double" subURI="C29">19196819</value><value type="xs:double" subURI="C30">8834</value><value type="xs:double" subURI="C31">651</value><value type="xs:double" subURI="C32">2798</value><value type="xs:double" subURI="C33">201</value><value type="xs:double" subURI="C34">5407563</value><value type="xs:double" subURI="C35">240232</value><value type="xs:double" subURI="C36">34</value><value type="xs:double" subURI="C37">11781169</value><value type="xs:double" subURI="C38">152937</value><value type="xs:double" subURI="C39">5231397</value><value type="xs:double" subURI="C40">16773186</value><value type="xs:double" subURI="C41">398289</value><value type="xs:double" subURI="C42">3921641</value><value type="xs:double" subURI="C43">9958036</value><value type="xs:double" subURI="C44">95194</value><value type="xs:double" subURI="C45">0</value><value type="xs:double" subURI="C46">16044</value><value type="xs:double" subURI="C47">6</value><value type="xs:double" subURI="C48">22384</value><value type="xs:double" subURI="C49">6865800</value><value type="xs:double" subURI="C50">69646</value><value type="xs:double" subURI="C51">1479866</value><value type="xs:double" subURI="C52">36388</value><value type="xs:double" subURI="C53">296</value><value type="xs:double" subURI="C54">17070</value><value type="xs:double" subURI="C55">14190</value><value type="xs:double" subURI="C56">3</value><value type="xs:double" subURI="C57">23068</value><value type="xs:double" subURI="C58">28743</value><value type="xs:double" subURI="C59">293</value><value type="xs:double" subURI="C60">22867</value><value type="xs:double" subURI="C61">9966175</value><value type="xs:double" subURI="C62">96459</value><value type="xs:double" subURI="C63">4</value><value type="xs:double" subURI="C64">3117</value><value type="xs:double" subURI="C65">554</value><value type="xs:double" subURI="C66">29566</value><value type="xs:double" subURI="C67">6870884</value><value type="xs:double" subURI="C68">70944</value><value type="xs:double" subURI="C69">1479775</value><value type="xs:double" subURI="C70">17677</value><value type="xs:double" subURI="C71">8203</value><value type="xs:double" subURI="C72">23433</value><value type="xs:double" subURI="C73">2740</value><value type="xs:double" subURI="C74">559</value><value type="xs:double" subURI="C75">27254</value><value type="xs:double" subURI="C76">9992</value><value type="xs:double" subURI="C77">8229</value><value type="xs:double" subURI="C78">28718</value><value type="xs:double" subURI="C79">17162182</value><value type="xs:double" subURI="C80">3921896</value><value type="xs:double" subURI="C81">26428</value><value type="xs:double" subURI="C82">18692379</value><value type="xs:double" subURI="C83">5081</value><value type="xs:double" subURI="C84">18713690</value><value type="xs:double" subURI="C85">17171972</value><value type="xs:double" subURI="C86">3912092</value><value type="xs:double" subURI="C87">12715697</value><value type="xs:double" subURI="C88">1649681</value><value type="xs:double" subURI="C89">2378</value><value type="xs:double" subURI="C90">236</value><value type="xs:double" subURI="C91">12703608</value><value type="xs:double" subURI="C92">1661581</value><value type="xs:double" subURI="C93">15537300</value><value type="xs:double" subURI="C94">3911671</value><value type="xs:double" subURI="C95">36978</value><value type="xs:double" subURI="C96">24434</value><value type="xs:double" subURI="C97">26030</value><value type="xs:double" subURI="C98">29472</value></PANDA>
