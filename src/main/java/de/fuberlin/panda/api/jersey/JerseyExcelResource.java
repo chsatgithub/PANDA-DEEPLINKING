@@ -50,7 +50,7 @@ public class JerseyExcelResource extends AbstractJerseyResource {
      * @throws WebApplicationException HTTP exception
      */
     @GET
-    @Path("/tables/{SheetName}/{Reference:(\\*|[A-Z][A-Z]*[1-9][0-9]*|\\*[1-9][0-9]*|[A-Z][A-Z]*\\*|[A-Z][A-Z]*[1-9][0-9]*\\:[A-Z][A-Z]*[1-9][0-9]*)}")
+    @Path("/tables/{SheetName}/{Reference:(\\*|[A-Z][A-Z]*[1-9][0-9]*|\\*[1-9][0-9]*|[A-Z][A-Z]*\\*|[A-Z][A-Z]*[1-9][0-9]*[\\-\\:][A-Z][A-Z]*[1-9][0-9]*)}")
     @Produces(MediaType.APPLICATION_XML)
     public Response getExcelValuesXML() throws WebApplicationException {
         Response response = null;
@@ -83,7 +83,7 @@ public class JerseyExcelResource extends AbstractJerseyResource {
      * @throws WebApplicationException HTTP exception
      */
     @GET
-    @Path("/tables/{SheetName}/{Reference:(\\*|[A-Z][A-Z]*[1-9][0-9]*|\\*[1-9][0-9]*|[A-Z][A-Z]*\\*|[A-Z][A-Z]*[1-9][0-9]*\\:[A-Z][A-Z]*[1-9][0-9]*)}")
+    @Path("/tables/{SheetName}/{Reference:(\\*|[A-Z][A-Z]*[1-9][0-9]*|\\*[1-9][0-9]*|[A-Z][A-Z]*\\*|[A-Z][A-Z]*[1-9][0-9]*[\\-\\:][A-Z][A-Z]*[1-9][0-9]*)}")
     @Produces(MediaType.APPLICATION_JSON)
     public Response getExcelValuesJSON() throws WebApplicationException {
         Response response = null;

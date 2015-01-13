@@ -50,7 +50,7 @@ public class JerseyPdfResource extends AbstractJerseyResource {
      * @throws WebApplicationException HTTP exception
      */
     @GET
-    @Path("/text/{PageRef:(\\*|[1-9][0-9]*|[1-9][0-9]*:[1-9][0-9]*)}/{LineRef:(\\*|[1-9][0-9]*|[1-9][0-9]*:[1-9][0-9]*)}")
+    @Path("/text/{PageRef:(\\*|[1-9][0-9]*|[1-9][0-9]*[\\-\\:][1-9][0-9]*)}/{LineRef:(\\*|[1-9][0-9]*|[1-9][0-9]*[\\-\\:][1-9][0-9]*)}")
     @Produces(MediaType.APPLICATION_XML)
     public Response getTextXML() throws WebApplicationException {
         Response response = null;
@@ -83,7 +83,7 @@ public class JerseyPdfResource extends AbstractJerseyResource {
      * @throws WebApplicationException HTTP exception
      */
     @GET
-    @Path("/text/{PageRef:(\\*|[1-9][0-9]*|[1-9][0-9]*:[1-9][0-9]*)}/{LineRef:(\\*|[1-9][0-9]*|[1-9][0-9]*:[1-9][0-9]*)}")
+    @Path("/text/{PageRef:(\\*|[1-9][0-9]*|[1-9][0-9]*[\\-\\:][1-9][0-9]*)}/{LineRef:(\\*|[1-9][0-9]*|[1-9][0-9]*[\\-\\:][1-9][0-9]*)}")
     @Produces(MediaType.APPLICATION_JSON)
     public Response getTextJSON() throws WebApplicationException {
         Response response = null;
@@ -116,7 +116,7 @@ public class JerseyPdfResource extends AbstractJerseyResource {
      * @throws WebApplicationException HTTP exception
      */
     @GET
-    @Path("/text/{PageRef:(\\*|[1-9][0-9]*|[1-9][0-9]*:[1-9][0-9]*)}/{LineRef:(\\*|[1-9][0-9]*|[1-9][0-9]*:[1-9][0-9]*)}")
+    @Path("/text/{PageRef:(\\*|[1-9][0-9]*|[1-9][0-9]*[\\-\\:][1-9][0-9]*)}/{LineRef:(\\*|[1-9][0-9]*|[1-9][0-9]*[\\-\\:][1-9][0-9]*)}")
     @Produces(MediaType.TEXT_PLAIN)
     public Response getTextPlainText() throws WebApplicationException {
         Response response = null;

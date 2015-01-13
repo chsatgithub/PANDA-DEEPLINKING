@@ -22,7 +22,6 @@ package de.fuberlin.panda.api.jersey;
  * #L%
  */
 
-
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
@@ -46,7 +45,7 @@ public class JerseyCsvResource extends AbstractJerseyResource {
      * @throws WebApplicationException HTTP exception
      */
     @GET
-    @Path("/{Reference:(\\*|[A-Z][A-Z]*[1-9][0-9]*|\\*[1-9][0-9]*|[A-Z][A-Z]*\\*|[A-Z][A-Z]*[1-9][0-9]*\\:[A-Z][A-Z]*[1-9][0-9]*)}")
+    @Path("/{Reference:(\\*|[A-Z][A-Z]*[1-9][0-9]*|\\*[1-9][0-9]*|[A-Z][A-Z]*\\*|[A-Z][A-Z]*[1-9][0-9]*[\\-\\:][A-Z][A-Z]*[1-9][0-9]*)}")
     @Produces(MediaType.APPLICATION_XML)
     public Response getCsvValuesXML() throws WebApplicationException {
         Response response = null;
@@ -79,7 +78,7 @@ public class JerseyCsvResource extends AbstractJerseyResource {
      * @throws WebApplicationException HTTP exception
      */
     @GET
-    @Path("/{Reference:(\\*|[A-Z][A-Z]*[1-9][0-9]*|\\*[1-9][0-9]*|[A-Z][A-Z]*\\*|[A-Z][A-Z]*[1-9][0-9]*\\:[A-Z][A-Z]*[1-9][0-9]*)}")
+    @Path("/{Reference:(\\*|[A-Z][A-Z]*[1-9][0-9]*|\\*[1-9][0-9]*|[A-Z][A-Z]*\\*|[A-Z][A-Z]*[1-9][0-9]*[\\-\\:][A-Z][A-Z]*[1-9][0-9]*)}")
     @Produces(MediaType.APPLICATION_JSON)
     public Response getCsvValuesJSON() throws WebApplicationException {
         Response response = null;

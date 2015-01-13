@@ -52,7 +52,7 @@ public class JerseyWordResource extends AbstractJerseyResource {
      * @throws WebApplicationException HTTP exception
      */
     @GET
-    @Path("/text/{Paragraph: (\\*|[1-9][0-9]*|[1-9][0-9]*\\:[1-9][0-9]*)}")
+    @Path("/text/{Paragraph: (\\*|[1-9][0-9]*|[1-9][0-9]*[\\-\\:][1-9][0-9]*)}")
     @Produces(MediaType.APPLICATION_XML)
     public Response getTextParagraphsXML() throws WebApplicationException {
         Response response = null;
@@ -86,7 +86,7 @@ public class JerseyWordResource extends AbstractJerseyResource {
      * @throws WebApplicationException HTTP exception
      */
     @GET
-    @Path("/text/{Paragraph: (\\*|[1-9][0-9]*|[1-9][0-9]*\\:[1-9][0-9]*)}")
+    @Path("/text/{Paragraph: (\\*|[1-9][0-9]*|[1-9][0-9]*[\\-\\:][1-9][0-9]*)}")
     @Produces(MediaType.APPLICATION_JSON)
     public Response getTextParagraphsJSON() throws WebApplicationException {
         Response response = null;
@@ -120,7 +120,7 @@ public class JerseyWordResource extends AbstractJerseyResource {
      * @throws WebApplicationException HTTP exception
      */
     @GET
-    @Path("/text/{Paragraph: (\\*|[1-9][0-9]*|[1-9][0-9]*\\:[1-9][0-9]*)}")
+    @Path("/text/{Paragraph: (\\*|[1-9][0-9]*|[1-9][0-9]*[\\-\\:][1-9][0-9]*)}")
     @Produces(MediaType.TEXT_PLAIN)
     public Response getTextParagraphsPlainText() throws WebApplicationException {
         Response response = null;
@@ -159,7 +159,7 @@ public class JerseyWordResource extends AbstractJerseyResource {
      * @throws WebApplicationException HTTP exception
      */
     @GET
-    @Path("/tables/{TablePos: (\\*|[1-9][0-9]*)}/{Table:(\\*|[A-Z][A-Z]*[1-9][0-9]*|\\*[1-9][0-9]*|[A-Z][A-Z]*\\*|[A-Z][A-Z]*[1-9][0-9]*\\:[A-Z][A-Z]*[1-9][0-9]*)}/{Paragraph: (\\*|[1-9][0-9]*|[1-9][0-9]*\\:[1-9][0-9]*)}")
+    @Path("/tables/{TablePos: (\\*|[1-9][0-9]*)}/{Table:(\\*|[A-Z][A-Z]*[1-9][0-9]*|\\*[1-9][0-9]*|[A-Z][A-Z]*\\*|[A-Z][A-Z]*[1-9][0-9]*[\\-\\:][A-Z][A-Z]*[1-9][0-9]*)}/{Paragraph: (\\*|[1-9][0-9]*|[1-9][0-9]*[\\-\\:][1-9][0-9]*)}")
     @Produces(MediaType.APPLICATION_XML)
     public Response getTableParagraphsXML() throws WebApplicationException {
         Response response = null;
@@ -191,7 +191,7 @@ public class JerseyWordResource extends AbstractJerseyResource {
      * @throws WebApplicationException HTTP exception
      */
     @GET
-    @Path("/tables/{TablePos: (\\*|[1-9][0-9]*)}/{Table:(\\*|[A-Z][A-Z]*[1-9][0-9]*|\\*[1-9][0-9]*|[A-Z][A-Z]*\\*|[A-Z][A-Z]*[1-9][0-9]*\\:[A-Z][A-Z]*[1-9][0-9]*)}/{Paragraph: (\\*|[1-9][0-9]*|[1-9][0-9]*\\:[1-9][0-9]*)}")
+    @Path("/tables/{TablePos: (\\*|[1-9][0-9]*)}/{Table:(\\*|[A-Z][A-Z]*[1-9][0-9]*|\\*[1-9][0-9]*|[A-Z][A-Z]*\\*|[A-Z][A-Z]*[1-9][0-9]*[\\-\\:][A-Z][A-Z]*[1-9][0-9]*)}/{Paragraph: (\\*|[1-9][0-9]*|[1-9][0-9]*[\\-\\:][1-9][0-9]*)}")
     @Produces(MediaType.APPLICATION_JSON)
     public Response getTableParagraphsJSON() throws WebApplicationException {
         Response response = null;
